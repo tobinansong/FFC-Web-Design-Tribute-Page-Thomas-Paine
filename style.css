@@ -1,0 +1,42 @@
+body{
+  text-align:center;
+  font-family:Arial, Helvetica, sans-serif;
+  }
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 600%;
+}
+
+img{
+  max-width:50%;
+  display:block;
+  margin:auto;
+  border-radius:100px;
+  Box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.top{
+  background-image: url("images/flag.jpg");
+  opacity: 0.5;
+}
+
+#banner{
+  color: #000000;
+  opacity: 1.0;
+}
+
+a:link{
+    text-decoration:none;
+    color:black;
+}
+a:visited{
+  color:purple
+}
+a:hover{
+  color:red;
+}
+
+a:active{
+  color: gold;
+}
